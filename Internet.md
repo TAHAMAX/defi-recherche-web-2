@@ -242,6 +242,22 @@ https://fr.wikipedia.org/wiki/Aaron_Swartz
 
 *************************************************************************************************************************************************
 
+Qu’est-ce que le projet GNU ?
+
+GNU is an operating system that is free software—that is, it respects users' freedom. The development of GNU made it possible to use a computer without software that would trample your freedom
+
+(Richard Stallman, créateur du projet GNU et fondateur du mouvement du logiciel libre)
+
+
+les sources:
+
+https://www.gnu.org/
+
+https://fr.wikipedia.org/wiki/GNU
+
+
+*************************************************************************************************************************************************
+
 
 
 
