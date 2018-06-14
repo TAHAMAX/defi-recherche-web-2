@@ -258,6 +258,28 @@ https://fr.wikipedia.org/wiki/GNU
 
 *************************************************************************************************************************************************
 
+Quelles sont les différences entre le Http et le Https ?
+
+Hyper Text Transfer Protocol Secure (HTTPS) is the secure version of HTTP, the protocol over which data is sent between your browser and the website that you are connected to. The 'S' at the end of HTTPS stands for 'Secure'. It means all communications between your browser and the website are encrypted. HTTPS is often used to protect highly confidential online transactions like online banking and online shopping order forms.
+
+HTTP (HyperText Transport Protocol) et HTTPS (HyperText Transport Protocol Secure) sont tous deux des protocoles de communication client-serveur.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Internet2.jpg/220px-Internet2.jpg
+
+https://www.techwyse.com/blog/wp-content/uploads/2017/06/04.jpg
+
+https://agencenetcom.fr/wp-content/uploads/2017/05/site-securise-https.png
+
+
+
+les sources:
+
+https://www.instantssl.com/ssl-certificate-products/https.html
+
+http://www.webmaster-freelance.cm/blog/referencement-web/difference-entre-http-et-https/
+
+*************************************************************************************************************************************************
+
 
 
 
