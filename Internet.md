@@ -280,6 +280,37 @@ http://www.webmaster-freelance.cm/blog/referencement-web/difference-entre-http-e
 
 *************************************************************************************************************************************************
 
+Qui est Richard Stallman ?
+
+Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Richard_Stallman_-_F%C3%AAte_de_l%27Humanit%C3%A9_2014_-_010.jpg/220px-Richard_Stallman_-_F%C3%AAte_de_l%27Humanit%C3%A9_2014_-_010.jpg
+
+les sources:
+
+https://fr.wikipedia.org/wiki/Richard_Stallman
+
+*************************************************************************************************************************************************
+
+Comment fonctionnent les bang de Duck Duck Go ?
+
+DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations d'externalisation ouverte provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
+
+La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs2,3 (adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.
+
+https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Nduck.v104.png/250px-Nduck.v104.png
+
+les sources:
+
+https://fr.wikipedia.org/wiki/DuckDuckGo
+
+https://duckduckgo.com/bang
+
+*************************************************************************************************************************************************
+
+
+
+
 
 
 
