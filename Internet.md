@@ -218,9 +218,30 @@ http://www.developpeur-web-tlse.fr/
 
 
 les sources:
+
 http://www.gdgtoulouse.fr/
 
 *************************************************************************************************************************************************
+
+Quels sont les prochains rendez-vous tech de Toulouse ?
+!!!
+
+************************************************************************************************************************************************
+
+Qui est Aaron Swartz ?
+
+Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York1, était un informaticien, écrivain, militant politique et hacktiviste américain.
+
+Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg
+
+les sources:
+
+https://fr.wikipedia.org/wiki/Aaron_Swartz
+
+*************************************************************************************************************************************************
+
 
 
 
